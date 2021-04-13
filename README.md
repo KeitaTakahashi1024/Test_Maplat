@@ -1,0 +1,2 @@
+# Test_Maplat
+Maplatをテストで使ってみるためのリポジトリ
